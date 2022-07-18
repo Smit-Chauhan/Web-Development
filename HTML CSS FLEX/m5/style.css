@@ -1,0 +1,13 @@
+.container {
+ display: flex;
+ width: auto;
+ background-color: #edc9b5;
+ flex-direction: column;
+}
+
+.item {
+ background-color: #ffeccd;
+ margin: 10px;
+ padding: 5px;
+ text-align: center;
+}

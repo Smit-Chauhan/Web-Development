@@ -1,0 +1,15 @@
+.third-photo {
+ z-index: 2;
+ left: 150px;
+}
+
+.second-photo {
+ z-index: 1;
+ top: 120px;
+ left: 40px;
+}
+
+img {
+ position: absolute;
+ width: 150px;
+}
