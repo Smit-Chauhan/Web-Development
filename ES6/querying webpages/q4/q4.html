@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+ <body>
+  <button onclick="changeLayout()">Change layout</button>
+  <h3>Cat Pics</h3>
+  <a href="https://mimo.app/i/clawdius.png"> Cat 1 </a>
+  <a href="https://mimo.app/i/cat.png"> Cat 2 </a>
+  <script src="script.js"></script>
+ </body>
+</html>
+
+Script.js :
+function changeLayout() {
+ const el = document.querySelector(
+ "a");
+ el.style.display = "block";
+}
