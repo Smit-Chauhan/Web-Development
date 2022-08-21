@@ -1,0 +1,9 @@
+.container {
+ font-style: italic;
+ padding: 24px;
+ box-sizing: border-box;
+ background-color: bisque;
+}
+img {
+ width:100%;
+}
